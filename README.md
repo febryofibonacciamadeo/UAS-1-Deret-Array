@@ -56,4 +56,4 @@ int main () {
 }
 </code>
 ## Output
-![uas 1](https://github.com/febryofibonacciamadeo/UAS-1-Deret-Array/issues/1#issue-1510443040)
+![uas 1](https://user-images.githubusercontent.com/115018736/209484762-1b2989a2-50c2-4ffa-be0b-5b89daeae8cd.png)
