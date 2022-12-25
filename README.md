@@ -55,5 +55,5 @@ int main () {
     getch();
 }
 </code>
-![uas 1](https://github.com/febryofibonacciamadeo/UAS-1-Deret-Array/issues/1#issue-1510443040)
 ## Output
+![uas 1](https://github.com/febryofibonacciamadeo/UAS-1-Deret-Array/issues/1#issue-1510443040)
