@@ -30,6 +30,8 @@ int main () {
     int nRow, nCol, res;
 	int num[nRow][nCol];
 	
+	cout << "NAMA : FEBRYO FIBONACCI AMADEO\n";
+	cout << "NIM : 1227050045\n";
 	cout << "\n\nMENCARI NILAI YANG TIDAK HABIS DIBAGI DENGAN 3, 5, 7\n";
 	cout << "\n" << "Masukkan banyak baris: "; cin >> nRow;
 	cout << "\n" << "Masukkan banyak kolom: "; cin >> nCol;
